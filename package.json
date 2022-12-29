@@ -17,13 +17,13 @@
     "@nuxtjs/bulma": "^1.2.0",
     "@nuxtjs/dotenv": "^1.1.1",
     "@nuxtjs/pwa": "^2.0.8",
-    "nuxt": "^1.0.0"
+    "nuxt": "^3.0.0"
   },
   "devDependencies": {
     "cross-env": "^5.0.1",
     "babel-eslint": "^8.2.1",
     "eslint": "^4.15.0",
-    "eslint-loader": "^2.0.0",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-vue": "^4.0.0"
   }
 }
